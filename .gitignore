@@ -73,7 +73,8 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Raw content
-Content/RawContent/**/* 
+Content/RawContent/**/*
+/RawContent/**/*
 
 # .vsconfig
 .vsconfig
